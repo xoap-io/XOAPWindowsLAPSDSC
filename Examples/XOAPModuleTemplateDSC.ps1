@@ -24,4 +24,3 @@ configuration XOAPModuleTemplateDSC
 
     }
 }
-
